@@ -2,4 +2,4 @@ backend:
   name: github
   repo: AustinGreen/gatsby-site # Path to your Github repository
   branch: master # Branch to update
-  media_folder: "images/uploads"
+  media_folder: "../static"
