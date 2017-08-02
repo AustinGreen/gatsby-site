@@ -1,0 +1,7 @@
+backend:
+  name: github
+  repo: AustinGreen/gatsby-site # Path to your Github repository
+  branch: master # Branch to update
+  publish_mode: editorial_workflow
+  media_folder: "../../src/img/uploads"
+  public_folder: "../static"
